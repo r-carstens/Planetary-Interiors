@@ -53,7 +53,7 @@ def get_ts_data():
     return all_compounds
 
 
-# Making res file copy
+# Making res file copies with enthalpy terms replaced with Free Energy terms
 def get_res_copy(all_compounds):
 
     for compound in all_compounds:
@@ -96,9 +96,11 @@ EOF
 
 python3 updated_get_new_output_data.py
 
+# Moving all the copied res files elsewhere
 mv *-copy.res ../new_output_files/
 cd ../new_output_files
 
+# Producing the convex hull using AIRSS
 ca -m -l | sort -n -k6 -k5 > "new_data_$currTemp.dat"
 
 rm *-copy.res
