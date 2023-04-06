@@ -1,6 +1,6 @@
 # Planetary-Interiors
 
-The bash scripts were used during a Senior Honors 'Planetary Interiors' project.
+The bash scripts were used during a Senior Honours 'Planetary Interiors' project.
 
 In order to use either script, it is necessary that the AIRSS software package is installed. The installation is avaliable via:
 https://airss-docs.github.io/getting-started/installation/
