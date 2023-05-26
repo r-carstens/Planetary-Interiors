@@ -1,14 +1,14 @@
 # Planetary-Interiors
 
-The scripts were used to process data regarding the potential inetrior structure and composition of planets such as Uranus and Neptune. To do so, Gibbs Free Energy convex hulls were used to determine the stabilities of different C-H-N-O chemical space compounds at such extreme conditions.
+The scripts were used to process data regarding the potential interior structures and compositions of planets such as Uranus and Neptune. To do so, Gibbs Free Energy convex hulls were used to determine the stabilities of different C-H-N-O chemical space compounds at such extreme conditions.
 
-To use either script, it is necessary that the AIRSS software package is installed. The installation is avaliable via:
+To use either script, it is necessary that the AIRSS software package is installed. The installation is available via:
 https://airss-docs.github.io/getting-started/installation/
 
 To generate convex hulls, along with the AIRSS package, Qhull is required to be installed. The package is available for download via:
 http://www.qhull.org/download/
 
-The aim of both scripts was to process data via use of the CASTEP software package, which is availiable at:
+The aim of both scripts was to process data via use of the CASTEP software package, which is available at:
 http://www.castep.org/
 
 The scripts were based on information made available by:
