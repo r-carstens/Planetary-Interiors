@@ -117,6 +117,7 @@ cd ../new_output_files
 # Producing the convex hull using AIRSS
 ca -m -l | sort -n -k6 -k5 > "new_data_$currTemp.dat"
 
+# Removing the copied files
 rm *-copy.res
 cd ../dat_files
 
