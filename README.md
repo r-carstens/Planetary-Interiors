@@ -12,6 +12,6 @@ The aim of both scripts was to process data via use of the CASTEP software packa
 http://www.castep.org/
 
 The scripts were based on information made available by:
-1. "First principles methods using CASTEP", Zeitschrift fuer Kristallographie 220(5-6) pp. 567-570 (2005) S. J. Clark, M. D. Segall, C. J. Pickard, P. J. Hasnip, M. J. Probert, K. Refson, M. C. Payne
+1. "First principles methods using CASTEP", Zeitschrift fuer Kristallographie 220(5-6) pp. 567-570 (2005) S. J. Clark, M. D. Segall, C. J. Pickard, P. J. Hasnip, M. J. Probert, K. Refson, M. C. Payne.
 2. C.J. Pickard and R.J. Needs, Physical Review Letters, 97, 045504 (2006).
 3. C.J. Pickard and R.J. Needs, Journal of Physics: Condensed Matter, 23, 053201 (2011).
